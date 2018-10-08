@@ -1,0 +1,25 @@
+/c/Users/laura/bin:
+/mingw64/bin:/usr/local/bin:
+/usr/bin:/bin:
+/c/Program Files (x86)/Common Files/Oracle/Java/javapath:
+/c/Program Files/ImageMagick-7.0.7-Q16:
+/c/ProgramData/Oracle/Java/javapath:
+/c/WINDOWS/system32:
+/c/WINDOWS:/c/WINDOWS/System32/Wbem:
+/c/WINDOWS/System32/WindowsPowerShell/v1.0:
+/c/Program Files/Microsoft SQL Server/110/Tools/Binn:
+/c/WINDOWS/System32/OpenSSH:
+/cmd:
+/c/Program Files/Microsoft VS Code/bin:
+/c/Users/laura/Anaconda3:
+/c/Users/laura/Anaconda3/Library/mingw-w64/bin:
+/c/Users/laura/Anaconda3/Library/usr/bin:
+/c/Users/laura/Anaconda3/Library/bin:
+/c/Users/laura/Anaconda3/Scripts:
+/c/Users/laura/AppData/Local/Microsoft/WindowsApps:
+/c/Users/laura/Desktop/Programming:
+/c/Python27:
+/c/Users/laura/AppData/Local/GitHubDesktop/bin:
+/c/Users/laura/AppData/Local/atom/bin:
+/usr/bin/vendor_perl:
+/usr/bin/core_perl
