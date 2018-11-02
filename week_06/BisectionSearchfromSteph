@@ -1,0 +1,35 @@
+sure, overall my code was slow but I had to do the whole thing on Sun as I am working 12+hours a day
+
+def find(data, target):
+
+    """Function to check for target word in data set. It is optimised by using the bisection search method.
+
+    Important Note: Data set must be sorted lowest to highest for this function to work"""
+
+    start = 0
+
+    end = len(data) - 1
+
+
+
+    while start <= end:
+
+        # Next guess of target location is midpoint between start and end of list
+
+        # Must round guess of the middle point to nearest integer for data list
+
+        middle = int((start + end)/ 2)
+
+        midpoint = data[middle]
+
+        if midpoint > target:
+
+            end = middle - 1
+
+        elif midpoint < target:
+
+            start = middle + 1
+
+        else:
+
+            return midpoint

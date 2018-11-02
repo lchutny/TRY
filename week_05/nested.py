@@ -17,8 +17,14 @@ def wraps_diff_sum_digits(x):
         y = diff_sum_digits(y)
     else:
         return y
+#
+# print(sum_digits(54321) == 15)
+# print(sum_digits(-54321) == 15)
+# print(diff_sum_digits(54321) == 54306)
+# print(wraps_diff_sum_digits(54321) == 9)
+#
+# print(sum_digits(9))
+# print(diff_sum_digits(9))
+# print(wraps_diff_sum_digits(9))
 
-print(sum_digits(54321) == 15)
-print(sum_digits(-54321) == 15)
-print(diff_sum_digits(54321) == 54306)
-print(wraps_diff_sum_digits(54321) == 9)
+print(wraps_diff_sum_digits(123))
